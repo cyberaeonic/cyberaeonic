@@ -2,131 +2,117 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11&height=280&section=header&text=CyberAeonic&fontSize=72&fontColor=00FFD1&animation=fadeIn&fontAlignY=35&desc=offensive_security%20%7C%20reverse_engineering%20%7C%20exploit_dev&descSize=18&descAlignY=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+CyberAeonic...;Loading+Offensive+Security+Modules...;Mounting+Reverse+Engineering+Toolchain...;Status%3A+Learning+Exploit+Development" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=Initializing+CyberAeonic...;Loading+Offensive+Security+Modules...;Building+Security+Tooling...;Status%3A+Always+Learning" />
 
 </div>
 
 ---
 
-<h2 align="center">[ PROFILE ]</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="30%">
-<img src="https://media.tenor.com/jJ4J8NHddcgAAAAM/sasuke-naruto.gif" width="180">
-</td>
-<td width="60%">
-
-### **Abishek M A**
-`offensive_security_learner | reverse_engineering | exploit_dev (learning)`
-
-| Key | Value |
-| --- | --- |
-| **Region** | India 🇮🇳 |
-| **Guild** | BITS Pilani |
-| **System** | Linux (Arch / Debian) |
-| **Focus** | Web Security · Reverse Engineering · Exploit Development |
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<h2 align="center">[ OBJECTIVE ]</h2>
+# [ PROFILE ]
 
 ```txt
-Developing strong foundations in offensive security through
-hands-on practice in vulnerability analysis, reverse engineering,
-and exploit development.
+Name      : Abishek M A
+Alias     : CyberAeonic
+Location  : India
+Education : BITS Pilani
+Platform  : Linux (Arch / Debian)
 
-Goal: To understand systems deeply by analyzing and breaking them.
+Focus:
+• Offensive Security
+• Reverse Engineering
+• Exploit Development
+• AI for Cybersecurity
 ```
 
 ---
 
-<h2 align="center">[ ARSENAL ]</h2>
-
-<div align="center">
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| Languages | `Python` `C` `Assembly` `JavaScript` `Bash` |
-| Web Security | `Burp Suite` `SQLMap` `OWASP ZAP` `Nmap` |
-| RE / Binary | `Ghidra` `GDB` `Radare2` `pwntools` |
-| DevOps / Infra | `Docker` `Git` `Linux` |
-
-</div>
-
----
-
-<h2 align="center">[ SYSTEM STATUS ]</h2>
+# [ ACHIEVEMENTS ]
 
 ```txt
-STATUS        : ACTIVE
-MODE          : OFFENSIVE_SECURITY_LEARNING
-PRIMARY_OS    : LINUX
+🏆 InCTF Jr. 2024 — National Finalist
+🏅 Qualified for InCTF 2026 Finals
+📜 Cisco Certified Network Associate (CCNA)
 
-CURRENT_FOCUS :
-  - Web Application Security & Vulnerability Analysis
-  - Binary Reverse Engineering
-  - Memory Corruption Fundamentals
-  - Userland Exploit Development
-
-INTERESTS     :
-  - Vulnerability Research
-  - Low-level System Behavior & Internals
-  - Exploit Development & Mitigation Bypass
-  - Offensive Security Methodologies
+CTF Participation
+• Yukthi CTF 2.0
+• Override.exe CTF
+• HackTheBox
+• TryHackMe
 ```
 
 ---
 
-<h2 align="center">[ CURRENT QUESTS ]</h2>
+# [ OBJECTIVE ]
 
 ```txt
-> Practicing CTF challenges (Web / Pwn / RE)
-> Learning debugging & binary analysis
-> Studying memory vulnerabilities
-> Building consistency in problem solving
+Building strong foundations in offensive security through
+hands-on vulnerability research, reverse engineering,
+binary exploitation, and security tool development.
+
+Goal:
+Understand systems deeply enough to break them,
+secure them, and explain why they fail.
 ```
 
 ---
 
-<h2 align="center">[ TERMINAL ]</h2>
+# [ FEATURED PROJECTS ]
+
+| Project | Description |
+|---------|-------------|
+| REAPER | GitHub Secret Scanner for leaked API keys and credentials |
+| ShadowLink | Autonomous OSINT investigation agent |
+| AegisAgent | AI-powered code vulnerability auditor |
+| vocal.sh | Voice-first security middleware |
+| DiscordC2 | Educational C2 framework for defensive research |
+
+---
+
+# [ ARSENAL ]
+
+| Category | Stack |
+|-----------|-------|
+| Languages | Python • Go • C • Assembly • Bash • JavaScript |
+| Security | Burp Suite • Nmap • SQLMap • OWASP ZAP |
+| Reverse Engineering | Ghidra • GDB • Radare2 • pwntools |
+| AI | LangGraph • LangChain • Ollama • Neo4j |
+| Platform | Linux • Docker • Git |
+
+---
+
+# [ CURRENT QUESTS ]
+
+```txt
+> Web Exploitation
+> Binary Reverse Engineering
+> Exploit Development
+> Memory Corruption
+> Vulnerability Research
+```
+
+---
+
+# [ TERMINAL ]
 
 ```bash
 $ whoami
 CyberAeonic
 
-$ skills --learning
-[ Web Exploitation | Reverse Engineering | Exploit Development ]
+$ achievements
+✓ InCTF Jr. National Finalist
+✓ CCNA Certified
+✓ Security Tool Developer
+✓ Active CTF Player
 
 $ status
-[ evolving... ]
+Still learning.
+Still building.
 ```
 
 ---
 
-<h2 align="center">[ CONNECT ]</h2>
+# [ CONNECT ]
 
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
-
-</div>
+- 🌐 Portfolio: https://your-portfolio.com
+- 💼 LinkedIn: https://linkedin.com/in/cyberaeonic
+- 💻 GitHub: https://github.com/cyberaeonic
