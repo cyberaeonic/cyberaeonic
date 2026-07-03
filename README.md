@@ -14,7 +14,7 @@
 Name      : Abishek M A
 Alias     : CyberAeonic
 Location  : India
-Education : BITS Pilani
+Education : BITS Pilani & NIAT
 Platform  : Linux (Arch / Debian)
 
 Focus:
