@@ -113,6 +113,6 @@ Still building.
 
 # [ CONNECT ]
 
-- 🌐 Portfolio: https://your-portfolio.com
+
 - 💼 LinkedIn: https://linkedin.com/in/cyberaeonic
 - 💻 GitHub: https://github.com/cyberaeonic
