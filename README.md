@@ -35,6 +35,7 @@ Core Focus :
 
 | Project | Stack | Highlights & Engineering Metrics |
 | :--- | :--- | :--- |
+| **[🛡️ Security-Research (CVE Labs)](https://github.com/cyberaeonic/security-research)** | `CVE-2026-23813` `ArubaOS-CX` `PHP Hardening` `Systemd` | **Vulnerability Research & Hardening Suites:** Non-destructive differential proxy auth bypass verification on ArubaOS-CX (`v10.13`) + automated Linux/PHP CVE hardening & verification scripts with visual proof. |
 | **[🔊 vocal.sh](https://github.com/cyberaeonic/vocal.sh)** | `Python` `Streaming TTS` `Asyncio` `Rich TUI` | **Sub-130ms Voice Security Middleware:** Tails live Linux/SSH logs, detects rapid brute-force bursts (5+ failed handshakes), and synthesizes spoken threat alerts via Murf Falcon TTS with priority queuing. |
 | **[🧠 Andromeda OS](https://github.com/cyberaeonic/andromeda-ai)** | `LangGraph` `FastAPI` `Next.js 15` `TypeScript` | **Autonomous Multi-Agent Coordinator:** Event-driven webhook engine that executes 6-step operational workflows (triage, resource allocation, PDF generation, Telegram dispatch) in **< 3 seconds** with strict Pydantic state validation. |
 | **[🎙️ Voice-Agent & Indic TTS](https://github.com/cyberaeonic/Voice-Agent)** | `FastAPI` `PyTorch` `Indic Parler-TTS` `Web Speech` | **Real-Time Voice Assistant & Indic Audio:** Push-to-talk browser-to-backend voice agent paired with fine-tuned **Indic Parler-TTS** (Tamil/Indic synthesis) and local **ACE-Step 1.5** audio generation pipelines. |
